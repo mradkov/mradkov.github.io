@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Milen Radkov
-email: milenradkov@me.com
+email: radkov@hack.bg
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey, I'm Milen Radkov - fullstack blockchain and smart-contracts developer,
+  Hey there, Im Milen Radkov - fullstack blockchain and smart-contracts developer,
   founder and CEO of hack.bg - a pioneer in blockchain development and consulting.
-  As it happens I'm also the lead developer of waellet - browser extension wallet for aeternity blockchain.
+  As it happens Im also the lead developer of waellet - browser extension wallet for aeternity blockchain.
   Interested in bitcoin, blockchain, cryptography, zero knowledge proofs, smart contract,
   ethereum, aeternity and zcash.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
