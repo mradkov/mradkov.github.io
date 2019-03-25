@@ -17,8 +17,8 @@ title: Milen Radkov
 email: radkov@hack.bg
 description: >- # this means to ignore newlines until "baseurl:"
   Hey there, Im Milen Radkov - fullstack blockchain and smart-contracts developer,
-  founder and CEO of [hack.bg](https://hack.bg) - a pioneer in blockchain development and consulting.
-  As it happens Im also the lead developer of [waellet](https://waellet.com) - browser extension wallet for aeternity blockchain.
+  founder and CEO of https://hack.bg - a pioneer in blockchain development and consulting.
+  As it happens Im also the lead developer of https://waellet.com - browser extension wallet for aeternity blockchain.
   Interested in bitcoin, blockchain, cryptography, zero knowledge proofs, smart contract,
   ethereum, aeternity and zcash.
 baseurl: "" # the subpath of your site, e.g. /blog
